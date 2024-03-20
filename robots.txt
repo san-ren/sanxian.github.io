@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://sanxian.github.io/sitemap.xml
